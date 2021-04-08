@@ -1,4 +1,4 @@
-# cosmosdb-conf
+# Cosmos DB Conf April, 2021
 Slides, code and more for the talk about Integrating Cosmos DB with Azure Functions
 
 ## Links and resources
